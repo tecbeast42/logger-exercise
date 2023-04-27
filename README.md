@@ -5,5 +5,5 @@
 ## Installation
 
 ```shell
-composer require https://github.com/tecbeast42/logger-exercise.git
+composer require tecbeast42/logger-exercise --prefer-dist
 ```
