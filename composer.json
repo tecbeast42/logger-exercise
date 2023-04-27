@@ -1,0 +1,26 @@
+{
+    "name": "tecbeast42/logger-example",
+    "description": "Logger excercise",
+    "type": "library",
+    "require-dev": {
+        "pestphp/pest": "^2.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tecbeast42\\LoggerExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tobias Kriebisch",
+            "email": "tobias.kriebisch@tecbeast.gmbh"
+        }
+    ],
+    "require": {},
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
