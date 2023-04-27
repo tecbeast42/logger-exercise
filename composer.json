@@ -17,7 +17,9 @@
             "email": "tobias.kriebisch@tecbeast.gmbh"
         }
     ],
-    "require": {},
+    "require": {
+        "league/flysystem": "^3.0"
+    },
     "config": {
         "allow-plugins": {
             "pestphp/pest-plugin": true
